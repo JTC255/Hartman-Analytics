@@ -1,1 +1,4 @@
-blah blah blah
+#main file
+
+def hello():
+  print("wsg")
